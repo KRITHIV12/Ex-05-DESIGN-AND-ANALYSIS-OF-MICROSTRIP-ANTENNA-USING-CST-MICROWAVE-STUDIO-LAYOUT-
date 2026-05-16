@@ -3,6 +3,8 @@
 To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms Software to be used: CST studio suite 2019 (Student edition)
 
 ## Design:
+<img width="1641" height="791" alt="Screenshot 2026-05-16 014213" src="https://github.com/user-attachments/assets/c0af1dff-0497-4fcc-becd-861c52b7a1c9" />
+
 
 Mathematical Calculation
 
@@ -25,7 +27,10 @@ S11 characteristics of the microstrip line terminated with the load
  S11 characteristics of the microstrip line terminated with quarter wave line and the desired load
 
 <img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/53a57283-5a67-4a13-9bb0-dbce0bdd6a4a" />
+## Output Graph:
+<img width="1661" height="869" alt="Screenshot 2026-05-16 014425" src="https://github.com/user-attachments/assets/4a37c9fd-5bde-4472-b859-4544f8bc1ddd" />
 
-Conclusion:
+
+## Conclusion:
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
