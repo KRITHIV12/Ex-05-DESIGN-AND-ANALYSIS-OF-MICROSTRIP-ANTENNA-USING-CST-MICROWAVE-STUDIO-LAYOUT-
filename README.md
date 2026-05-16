@@ -6,7 +6,7 @@ To design a quarter wave transformer for matching a 50 Ohm microstrip line with 
 <img width="1641" height="791" alt="Screenshot 2026-05-16 014213" src="https://github.com/user-attachments/assets/c0af1dff-0497-4fcc-becd-861c52b7a1c9" />
 
 
-Mathematical Calculation
+## Mathematical Calculation
 
 <img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/98599c2a-a7e7-4efe-9794-275286b5074f" />
 
